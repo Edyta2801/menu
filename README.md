@@ -1,0 +1,1 @@
+Statyczna przykładowa stronka z klasami css
